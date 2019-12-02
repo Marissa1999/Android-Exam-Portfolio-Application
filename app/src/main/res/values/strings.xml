@@ -7,4 +7,7 @@
     <string name="profile_menu_title">Profile</string>
     <string name="education_menu_title">Education</string>
     <string name="experience_menu_title">Experience</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
