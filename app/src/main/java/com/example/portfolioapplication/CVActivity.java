@@ -31,7 +31,8 @@ public class CVActivity extends AppCompatActivity {
     };
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState)
+    {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cv);
         BottomNavigationView navView = findViewById(R.id.nav_view);
