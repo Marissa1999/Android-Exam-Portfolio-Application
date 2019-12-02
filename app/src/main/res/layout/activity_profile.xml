@@ -8,7 +8,7 @@
     tools:context=".ProfileActivity">
 
     <TextView
-        android:id="@+id/profile_title"
+        android:id="@+id/title"
         android:layout_width="297dp"
         android:layout_height="78dp"
         android:layout_marginTop="32dp"
@@ -106,7 +106,7 @@
         app:layout_constraintBottom_toTopOf="@+id/name_text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/profile_title"
+        app:layout_constraintTop_toBottomOf="@+id/title"
         app:srcCompat="@drawable/ic_menu_profile"
         tools:ignore="MissingConstraints" />
 
