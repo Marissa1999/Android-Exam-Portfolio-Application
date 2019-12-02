@@ -6,18 +6,17 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
-public class MainActivity extends AppCompatActivity {
+public class EducationActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_education);
     }
 
-    public void launchProfileActivity(View view)
+    public void launchExperienceActivity(View view)
     {
         Intent intent = new Intent(this, ProfileActivity.class);
         startActivity(intent);
     }
-
 }

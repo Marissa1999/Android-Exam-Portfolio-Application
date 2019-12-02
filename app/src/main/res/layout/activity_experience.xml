@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#5DCDDF"
-    tools:context=".MainActivity">
+    tools:context=".ExperienceActivity">
 
     <TextView
         android:id="@+id/welcomeText"
@@ -55,7 +55,7 @@
         android:layout_marginRight="8dp"
         android:layout_marginBottom="148dp"
         android:background="@android:color/holo_blue_dark"
-        android:onClick="launchProfileActivity"
+        android:onClick="launchMainActivity"
         android:text="@string/button_text"
         android:textColor="@android:color/black"
         android:textSize="24sp"
