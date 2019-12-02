@@ -16,7 +16,7 @@ public class ProfileActivity extends AppCompatActivity {
 
     public void launchEducationActivity(View view)
     {
-        Intent intent = new Intent(this, ProfileActivity.class);
+        Intent intent = new Intent(this, EducationActivity.class);
         startActivity(intent);
     }
 }
