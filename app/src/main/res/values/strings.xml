@@ -10,4 +10,7 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_text">View Job Profile</string>
+    <string name="welcome_text">Welcome to the Portfolio Application!</string>
+    <string name="review_text">Feel Free to Review the Application First!</string>
 </resources>
